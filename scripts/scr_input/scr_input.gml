@@ -1,10 +1,10 @@
 function scr_input() {
 	if !win && !lose {
 	//Movement
-		left =  keyboard_check(ord("a"));
-		right = keyboard_check(ord("d"));
-		up =  keyboard_check(ord("w"));
-		down = keyboard_check(ord("s"));
+		left =  keyboard_check(ord("A"));
+		right = keyboard_check(ord("D"));
+		up =  keyboard_check(ord("W"));
+		down = keyboard_check(ord("S"));
 
 		//Jump
 		jump = keyboard_check_pressed(vk_space);

@@ -11,7 +11,6 @@
     {"id":{"name":"scr_move_collide","path":"scripts/scr_move_collide/scr_move_collide.yy",},"order":3,},
     {"id":{"name":"scr_move_jump_collide","path":"scripts/scr_move_jump_collide/scr_move_jump_collide.yy",},"order":4,},
     {"id":{"name":"scr_pickup","path":"scripts/scr_pickup/scr_pickup.yy",},"order":5,},
-    {"id":{"name":"scr_win_lose","path":"scripts/scr_win_lose/scr_win_lose.yy",},"order":6,},
     {"id":{"name":"obj_player_xymove","path":"objects/obj_player_xymove/obj_player_xymove.yy",},"order":0,},
     {"id":{"name":"obj_player_jump","path":"objects/obj_player_jump/obj_player_jump.yy",},"order":1,},
     {"id":{"name":"par_wall","path":"objects/par_wall/par_wall.yy",},"order":2,},

@@ -13,4 +13,4 @@ scr_move_jump_collide();
 scr_pickup();
 
 //Check for win/lose
-scr_win_lose();
+//scr_win_lose();
