@@ -1,0 +1,8 @@
+*            text=auto
+*.fsh       text
+*.vsh       text
+*.yyp        text
+*.yy        text
+*.gml        text
+*.png        -text
+*            -text
