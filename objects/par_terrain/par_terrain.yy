@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "par_wall",
+  "name": "par_terrain",
   "tags": [],
   "resourceType": "GMObject",
 }

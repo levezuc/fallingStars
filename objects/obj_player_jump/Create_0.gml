@@ -12,10 +12,10 @@ drag = 1;
 
 //For jumping
 y_spd = 0;
-jump_power = 15;
-grav = 1;
+jump_power = 20;
+grav = 1.3;
 
 //Win/Lose States
 win = false;
 lose = false;
-count = instance_number(par_pickup);
+//count = instance_number(par_pickup);
