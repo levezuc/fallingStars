@@ -2,18 +2,15 @@
 // You can write your code in this editor
 left = 0;
 right = 0;
-spd = 6;
-
-//For force-based movement
-x_spd = 0;
-accel = 1;
-max_spd = 10;
-drag = 1;
+spd = 15;
 
 //For jumping
 y_spd = 0;
-jump_power = 20;
-grav = 1.3;
+jump_power = 30;
+grav = 2;
+
+//For Shooting
+projectile_spd = 0;
 
 //Win/Lose States
 win = false;

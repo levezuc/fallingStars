@@ -8,6 +8,9 @@ function scr_input() {
 
 		//Jump
 		jump = keyboard_check_pressed(vk_space);
+		
+		//Shooting
+		shooting = keyboard_check(ord("J"));
 	}
 
 	//Utility
