@@ -1,12 +1,14 @@
 {
   "resources": [
     {"id":{"name":"spr_circle","path":"sprites/spr_circle/spr_circle.yy",},"order":0,},
+    {"id":{"name":"spr_bow","path":"sprites/spr_bow/spr_bow.yy",},"order":5,},
     {"id":{"name":"spr_square","path":"sprites/spr_square/spr_square.yy",},"order":1,},
     {"id":{"name":"spr_jumper","path":"sprites/spr_jumper/spr_jumper.yy",},"order":2,},
     {"id":{"name":"scr_shoot","path":"scripts/scr_shoot/scr_shoot.yy",},"order":6,},
     {"id":{"name":"spr_bbox","path":"sprites/spr_bbox/spr_bbox.yy",},"order":3,},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":4,},
     {"id":{"name":"scr_input","path":"scripts/scr_input/scr_input.yy",},"order":0,},
+    {"id":{"name":"obj_bow","path":"objects/obj_bow/obj_bow.yy",},"order":5,},
     {"id":{"name":"scr_move_jump_collide","path":"scripts/scr_move_jump_collide/scr_move_jump_collide.yy",},"order":4,},
     {"id":{"name":"scr_pickup","path":"scripts/scr_pickup/scr_pickup.yy",},"order":5,},
     {"id":{"name":"obj_player_jump","path":"objects/obj_player_jump/obj_player_jump.yy",},"order":1,},
