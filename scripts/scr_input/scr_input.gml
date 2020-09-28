@@ -1,17 +1,17 @@
 function scr_input() {
-	if !win && !lose {
+	//if !win && !lose {
 	//Movement
-		left =  keyboard_check(ord("A"));
-		right = keyboard_check(ord("D"));
-		up =  keyboard_check(ord("W"));
-		down = keyboard_check(ord("S"));
+	left =  keyboard_check(ord("A"));
+	right = keyboard_check(ord("D"));
+		//up =  keyboard_check(ord("W"));
+		//down = keyboard_check(ord("S"));
 
 		//Jump
-		jump = keyboard_check_pressed(vk_space);
+	jump = keyboard_check_pressed(vk_space);
 		
 		//Shooting
-		shooting = keyboard_check(ord("J"));
-	}
+	shooting = keyboard_check(ord("J"));
+	//}
 
 	//Utility
 	if keyboard_check_pressed(vk_escape) game_end();

@@ -9,10 +9,9 @@ y_spd = 0;
 jump_power = 30;
 grav = 2;
 
-//For Shooting
-projectile_spd = 0;
-
 //Win/Lose States
 win = false;
 lose = false;
 //count = instance_number(par_pickup);
+
+window_set_size(1600,900);
