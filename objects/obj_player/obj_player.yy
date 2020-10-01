@@ -1,11 +1,14 @@
 {
   "spriteId": {
-    "name": "spr_jumper",
-    "path": "sprites/spr_jumper/spr_jumper.yy",
+    "name": "spr_player",
+    "path": "sprites/spr_player/spr_player.yy",
   },
   "solid": false,
   "visible": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_player",
+    "path": "sprites/spr_player/spr_player.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,

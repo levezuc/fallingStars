@@ -8,6 +8,16 @@ function scr_win_lose() {
 		//grav = 0;
 		win = true;
 	}
+	
+	if (hp <= 0) {
+		var layerId = layer_get_id("Player");
+		layer_destroy_instances(layerId);
+		var layerId = layer_get_id("Bow");
+		layer_destroy_instances(layerId);
+		var layerId = layer_get_id("Arrow");
+		layer_destroy_instances(layerId);
+		lose = true;
+	}
 	/*
 	//Check for a lose
 	else if place_meeting(x,y,par_bbox) {
