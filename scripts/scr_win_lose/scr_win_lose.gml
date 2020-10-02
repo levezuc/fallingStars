@@ -7,6 +7,13 @@ function scr_win_lose() {
 		//spd = 0;
 		//grav = 0;
 		win = true;
+		if(curr_enemy != pointer_null)
+		{
+			with(curr_enemy)
+			{
+				enemy_end = true;
+			}
+		}
 	}
 	
 	if (hp <= 0) {
