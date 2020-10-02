@@ -16,6 +16,8 @@ lose = false;
 hp = 5;
 
 hp_alpha = 5;
+
+curr_enemy = pointer_null;
 //count = instance_number(par_pickup);
 
 window_set_size(1600,900);

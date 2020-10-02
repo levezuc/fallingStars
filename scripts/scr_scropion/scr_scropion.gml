@@ -30,8 +30,13 @@ function scr_scropion(){
 	}
 	if(warning_timer < 0)
 	{
-		instance_create_layer(0, warning_y, "Enemy_a", obj_scorpion_a);
-	
+		with (instance_create_layer(800, warning_y, "Enemy_a", obj_scorpion_a))
+		{
+			speed = -150;
+		}
+		
+		
+		tail_timer = 30;
 		tail_visible = true;
 		warning_visible = false;
 		warning_timer = warning_timer_reset;

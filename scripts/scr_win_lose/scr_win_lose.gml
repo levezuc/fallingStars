@@ -10,13 +10,19 @@ function scr_win_lose() {
 	}
 	
 	if (hp <= 0) {
-		var layerId = layer_get_id("Player");
-		layer_destroy_instances(layerId);
+		lose = true;
+		object_set_visible(obj_player, false);
 		var layerId = layer_get_id("Bow");
 		layer_destroy_instances(layerId);
 		var layerId = layer_get_id("Arrow");
 		layer_destroy_instances(layerId);
-		lose = true;
+		if(curr_enemy != pointer_null)
+		{
+			with(curr_enemy)
+			{
+				enemy_end = true;
+			}
+		}
 	}
 	/*
 	//Check for a lose

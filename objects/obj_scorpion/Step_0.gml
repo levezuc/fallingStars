@@ -1,3 +1,3 @@
-//if(!lose && ! win){
+if(!enemy_end){
 	scr_scropion();
-//}
+}
