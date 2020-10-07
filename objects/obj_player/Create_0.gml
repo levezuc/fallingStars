@@ -13,9 +13,12 @@ grav = 2;
 win = false;
 lose = false;
 
+
 hp = 5;
 
-hp_alpha = 5;
+hp_alpha = hp;
+
+flash_counter = 0;
 
 object_set_visible(obj_player, true);
 curr_enemy = pointer_null;

@@ -6,6 +6,7 @@
     {"id":{"name":"obj_warning","path":"objects/obj_warning/obj_warning.yy",},"order":9,},
     {"id":{"name":"spr_warning","path":"sprites/spr_warning/spr_warning.yy",},"order":12,},
     {"id":{"name":"spr_square","path":"sprites/spr_square/spr_square.yy",},"order":1,},
+    {"id":{"name":"scr_receive_damage","path":"scripts/scr_receive_damage/scr_receive_damage.yy",},"order":11,},
     {"id":{"name":"obj_scorpion","path":"objects/obj_scorpion/obj_scorpion.yy",},"order":8,},
     {"id":{"name":"obj_star_c","path":"objects/obj_star_c/obj_star_c.yy",},"order":11,},
     {"id":{"name":"spr_scorpio_c","path":"sprites/spr_scorpio_c/spr_scorpio_c.yy",},"order":13,},

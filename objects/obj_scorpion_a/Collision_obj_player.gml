@@ -1,6 +1,8 @@
-with(other)
+if(!hasHit)
 {
-	show_debug_message("Player hit");	
-	image_alpha -= 1/hp_alpha;
-	hp--;
+	with(other)
+	{
+		scr_receive_damage();
+	}
+	hasHit = true;
 }
