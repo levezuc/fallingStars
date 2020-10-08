@@ -4,6 +4,8 @@ function scr_receive_damage()
 {
 	image_alpha -= 1/hp_alpha;
 	hp--;
+	
+	show_debug_message("Player recieved damage");
 	//flash_counter = 16;
 	//image_alpha = 0;
 }

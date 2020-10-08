@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Scorpio_objs",
+    "path": "folders/Objects/Scorpio_objs.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_scorpio_c",

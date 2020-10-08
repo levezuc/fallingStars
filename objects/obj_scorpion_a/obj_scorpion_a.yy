@@ -22,14 +22,15 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"parent":{"name":"obj_scorpion_a","path":"objects/obj_scorpion_a/obj_scorpion_a.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_scorpion_a","path":"objects/obj_scorpion_a/obj_scorpion_a.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_scorpion_a","path":"objects/obj_scorpion_a/obj_scorpion_a.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"par_terrain","path":"objects/par_terrain/par_terrain.yy",},"parent":{"name":"obj_scorpion_a","path":"objects/obj_scorpion_a/obj_scorpion_a.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_scorpion_a","path":"objects/obj_scorpion_a/obj_scorpion_a.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Scorpio_objs",
+    "path": "folders/Objects/Scorpio_objs.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_scorpion_a",

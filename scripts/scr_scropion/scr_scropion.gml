@@ -13,11 +13,11 @@ function scr_scropion(){
 		if(level == 0)
 		{
 			warning_y = 770;
-			tail_y = 650;
+			//tail_y = 70;
 		} else 
 		{
 			warning_y = 550;
-			tail_y = 450;
+			//tail_y = 550;
 		}
 		instance_create_layer(warning_x, warning_y, "Warning", obj_warning);
 	
@@ -30,9 +30,9 @@ function scr_scropion(){
 	}
 	if(warning_timer < 0)
 	{
-		with (instance_create_layer(800, warning_y, "Enemy_a", obj_scorpion_a))
+		with (instance_create_layer(-100, warning_y, "Enemy_a", obj_scorpion_a))
 		{
-			speed = -150;
+			speed = 150;
 		}
 		
 		

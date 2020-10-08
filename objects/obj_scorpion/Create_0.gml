@@ -4,7 +4,7 @@ warning_timer_reset = 75;
 
 firing_delay = 150;
 
-warning_x = 600;
+warning_x = 1000;
 
 warning_visible = false;
 
