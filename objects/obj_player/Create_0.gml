@@ -13,7 +13,7 @@ grav = 2;
 win = false;
 lose = false;
 
-
+window_set_fullscreen(true);
 hp = 5;
 
 hp_alpha = hp;
@@ -24,4 +24,4 @@ object_set_visible(obj_player, true);
 curr_enemy = pointer_null;
 //count = instance_number(par_pickup);
 
-window_set_size(1600,900);
+window_set_size(2000,1125);

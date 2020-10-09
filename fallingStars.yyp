@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"obj_star","path":"objects/obj_star/obj_star.yy",},"order":7,},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"spr_circle","path":"sprites/spr_circle/spr_circle.yy",},"order":0,},
     {"id":{"name":"spr_bow","path":"sprites/spr_bow/spr_bow.yy",},"order":5,},
     {"id":{"name":"obj_warning","path":"objects/obj_warning/obj_warning.yy",},"order":3,},
@@ -32,7 +33,7 @@
     {"id":{"name":"spr_arrow","path":"sprites/spr_arrow/spr_arrow.yy",},"order":6,},
     {"id":{"name":"Background_s","path":"sprites/Background_s/Background_s.yy",},"order":0,},
     {"id":{"name":"spr_star","path":"sprites/spr_star/spr_star.yy",},"order":7,},
-    {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":0,},
+    {"id":{"name":"rm_scorp","path":"rooms/rm_scorp/rm_scorp.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Windows","path":"options/windows/options_windows.yy",},
@@ -46,7 +47,8 @@
     "children": [],
   },
   "RoomOrder": [
-    {"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"rm_scorp","path":"rooms/rm_scorp/rm_scorp.yy",},
+    {"name":"Room2","path":"rooms/Room2/Room2.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -60,7 +62,6 @@
     {"folderPath":"folders/Rooms.yy","order":11,"resourceVersion":"1.0","name":"Rooms","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":12,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":13,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Sprites/Sequences.yy","order":8,"resourceVersion":"1.0","name":"Sequences","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Animation Curves.yy","order":2,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Backgrounds.yy","order":14,"resourceVersion":"1.0","name":"Backgrounds","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sounds.yy","order":14,"resourceVersion":"1.0","name":"Sounds","tags":[],"resourceType":"GMFolder",},
