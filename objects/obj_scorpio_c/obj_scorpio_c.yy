@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_scorpio_c",
-    "path": "sprites/spr_scorpio_c/spr_scorpio_c.yy",
+    "name": "spr_scorpion_path",
+    "path": "sprites/spr_scorpion_path/spr_scorpion_path.yy",
   },
   "solid": false,
   "visible": true,

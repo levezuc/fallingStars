@@ -2,6 +2,8 @@
   "resources": [
     {"id":{"name":"obj_star","path":"objects/obj_star/obj_star.yy",},"order":7,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
+    {"id":{"name":"spr_scorpion_path","path":"sprites/spr_scorpion_path/spr_scorpion_path.yy",},"order":17,},
+    {"id":{"name":"spr_swan_path","path":"sprites/spr_swan_path/spr_swan_path.yy",},"order":16,},
     {"id":{"name":"spr_circle","path":"sprites/spr_circle/spr_circle.yy",},"order":0,},
     {"id":{"name":"spr_bow","path":"sprites/spr_bow/spr_bow.yy",},"order":5,},
     {"id":{"name":"obj_warning","path":"objects/obj_warning/obj_warning.yy",},"order":3,},
@@ -14,6 +16,7 @@
     {"id":{"name":"scr_win_lose","path":"scripts/scr_win_lose/scr_win_lose.yy",},"order":7,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":2,},
     {"id":{"name":"scr_shoot","path":"scripts/scr_shoot/scr_shoot.yy",},"order":6,},
+    {"id":{"name":"spr_swan","path":"sprites/spr_swan/spr_swan.yy",},"order":15,},
     {"id":{"name":"spr_scorpion","path":"sprites/spr_scorpion/spr_scorpion.yy",},"order":9,},
     {"id":{"name":"spr_scorpion_a","path":"sprites/spr_scorpion_a/spr_scorpion_a.yy",},"order":11,},
     {"id":{"name":"obj_scorpio_c","path":"objects/obj_scorpio_c/obj_scorpio_c.yy",},"order":0,},
