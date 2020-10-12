@@ -13,7 +13,6 @@ grav = 2;
 win = false;
 lose = false;
 
-window_set_fullscreen(true);
 hp = 5;
 
 hp_alpha = hp;
