@@ -13,6 +13,7 @@ scr_move_jump_collide();
 //scr_pickup();
 
 //Shoot the bad people
+
 scr_shoot();
 
 //Check for win/lose
