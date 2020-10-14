@@ -3,7 +3,7 @@
 if(!enemy_end){
 	scr_cygnus();
 }
-if(enemy_end)
+else
 {
 	var layerid = layer_get_id("Enemy_a");
 	layer_destroy_instances(layerid);

@@ -7,15 +7,20 @@ function scr_win_lose() {
 		//spd = 0;
 		//grav = 0;
 		win = true;
-		if(curr_enemy != pointer_null)
+		debug_message = string_insert(curr_enemy, " That better not be 0", 0);
+		show_debug_message(debug_message);
+		if(curr_enemy != 0)
 		{
-			show_debug_message("gotem");
 			with(curr_enemy)
 			{
-				show_debug_message("gotem");
 				enemy_end = true;
 				enemy_won = true;
 			}
+		}
+		//THIS IS NOT A GOOD FIX scorpion still not being set properly
+		else
+		{
+			room_goto(rm_select);
 		}
 	}
 	

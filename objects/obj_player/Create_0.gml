@@ -20,7 +20,7 @@ hp_alpha = hp;
 image_alpha = 1;
 
 object_set_visible(obj_player, true);
-curr_enemy = pointer_null;
+curr_enemy = 0;
 //count = instance_number(par_pickup);
 
 window_set_size(2000,1125);

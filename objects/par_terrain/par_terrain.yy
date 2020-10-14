@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Level_objects",
+    "path": "folders/Objects/Level_objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "par_terrain",
