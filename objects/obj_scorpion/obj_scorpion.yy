@@ -29,7 +29,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Scorpio_objs",
-    "path": "folders/Objects/Scorpio_objs.yy",
+    "path": "folders/Objects/Enemies/Scorpio_objs.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_scorpion",

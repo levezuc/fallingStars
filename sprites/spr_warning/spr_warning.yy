@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ed59c142-ff6d-41fa-be87-3846e49f099a","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Scorpion",
+    "path": "folders/Sprites/Enemies/Scorpion.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_warning",

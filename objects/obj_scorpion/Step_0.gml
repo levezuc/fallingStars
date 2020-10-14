@@ -1,3 +1,3 @@
 if(!enemy_end){
-	scr_scropion();
+	scr_scorpion();
 }

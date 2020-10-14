@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_scorpion_path",
-    "path": "sprites/spr_scorpion_path/spr_scorpion_path.yy",
+    "name": "spr_swan",
+    "path": "sprites/spr_swan/spr_swan.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,16 +21,17 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_scorpio_c","path":"objects/obj_scorpio_c/obj_scorpio_c.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_cygnus","path":"objects/obj_cygnus/obj_cygnus.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_cygnus","path":"objects/obj_cygnus/obj_cygnus.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Scorpio_objs",
-    "path": "folders/Objects/Enemies/Scorpio_objs.yy",
+    "name": "Cygnus_objs",
+    "path": "folders/Objects/Enemies/Cygnus_objs.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_scorpio_c",
+  "name": "obj_cygnus",
   "tags": [],
   "resourceType": "GMObject",
 }
