@@ -14,6 +14,8 @@ warning_timer = warning_timer_reset;
 
 enemy_end = false;
 
+enemy_won = false;
+
 with(obj_player)
 {
 	curr_enemy = obj_scorpion;

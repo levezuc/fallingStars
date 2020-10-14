@@ -9,14 +9,18 @@ function scr_win_lose() {
 		win = true;
 		if(curr_enemy != pointer_null)
 		{
+			show_debug_message("gotem");
 			with(curr_enemy)
 			{
+				show_debug_message("gotem");
 				enemy_end = true;
+				enemy_won = true;
 			}
 		}
 	}
 	
 	if (hp <= 0) {
+		
 		lose = true;
 		object_set_visible(obj_player, false);
 		var layerId = layer_get_id("Bow");
