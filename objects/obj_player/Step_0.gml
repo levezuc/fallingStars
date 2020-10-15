@@ -11,10 +11,5 @@ scr_move_jump_collide();
 
 //Interact with collectibles
 //scr_pickup();
-
-//Shoot the bad people
-
-scr_shoot();
-
 //Check for win/lose
 scr_win_lose();
