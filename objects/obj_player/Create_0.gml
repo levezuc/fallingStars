@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+//movement
 left = 0;
 right = 0;
 spd = 15;
@@ -13,14 +12,17 @@ grav = 2;
 win = false;
 lose = false;
 
+//health
 hp = 3;
-
 hp_alpha = hp;
 
+//animations
 image_alpha = 1;
-
+image_xscale = -1;
 object_set_visible(obj_player, true);
-curr_enemy = 0;
-//count = instance_number(par_pickup);
 
+//enemy control
+curr_enemy = 0;
+
+//misc.
 window_set_size(2000,1125);

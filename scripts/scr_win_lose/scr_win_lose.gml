@@ -27,7 +27,8 @@ function scr_win_lose() {
 	if (hp <= 0) {
 		
 		lose = true;
-		object_set_visible(obj_player, false);
+		//object_set_visible(obj_player, false);
+		image_alpha = 0;
 		var layerId = layer_get_id("Bow");
 		layer_destroy_instances(layerId);
 		var layerId = layer_get_id("Arrow");
