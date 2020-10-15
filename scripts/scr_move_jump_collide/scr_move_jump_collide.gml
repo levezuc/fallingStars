@@ -3,6 +3,12 @@ function scr_move_jump_collide() {
 	x_dir = right - left;
 	if jump && place_meeting(x,y+2,par_terrain) y_spd -= jump_power;
 
+	if(x_dir <= 0)
+	{
+		image_xscale = -1;
+	} else {
+		image_xscale = 1;
+	}
 	//x movement and collision
 	if place_meeting(x + spd * x_dir,y,par_terrain) { //If colliding with a wall
 		while !place_meeting(x+x_dir,y,par_terrain) x+=x_dir

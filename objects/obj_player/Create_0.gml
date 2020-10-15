@@ -13,7 +13,7 @@ grav = 2;
 win = false;
 lose = false;
 
-hp = 5;
+hp = 3;
 
 hp_alpha = hp;
 
