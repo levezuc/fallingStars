@@ -36,8 +36,6 @@ function scr_scorpion(){
 		}
 		
 		
-		tail_timer = 30;
-		tail_visible = true;
 		warning_visible = false;
 		warning_timer = warning_timer_reset;
 		var layerId = layer_get_id("Warning");

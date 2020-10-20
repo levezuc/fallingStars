@@ -19,7 +19,6 @@
     {"id":{"name":"obj_cygnus_c","path":"objects/obj_cygnus_c/obj_cygnus_c.yy",},"order":1,},
     {"id":{"name":"scr_win_lose","path":"scripts/scr_win_lose/scr_win_lose.yy",},"order":7,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":2,},
-    {"id":{"name":"scr_shoot","path":"scripts/scr_shoot/scr_shoot.yy",},"order":6,},
     {"id":{"name":"spr_swan","path":"sprites/spr_swan/spr_swan.yy",},"order":0,},
     {"id":{"name":"obj_select_exit","path":"objects/obj_select_exit/obj_select_exit.yy",},"order":2,},
     {"id":{"name":"spr_scorpion","path":"sprites/spr_scorpion/spr_scorpion.yy",},"order":0,},

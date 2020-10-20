@@ -10,6 +10,7 @@ function scr_move_jump_collide() {
 		//image_xscale = -1;		
 
 	} else {
+		
 		image_speed = spd/15;
 		sprite_index = spr_player_r;
 		if(x_dir < 0)
@@ -19,6 +20,8 @@ function scr_move_jump_collide() {
 		{
 			image_xscale = 1;
 		}
+		
+
 	}
 	
 	//x movement and collision

@@ -17,11 +17,7 @@ function scr_win_lose() {
 				enemy_won = true;
 			}
 		}
-		//THIS IS NOT A GOOD FIX scorpion still not being set properly
-		else
-		{
-			room_goto(rm_select);
-		}
+
 	}
 	
 	if (hp <= 0) {
@@ -33,7 +29,7 @@ function scr_win_lose() {
 		layer_destroy_instances(layerId);
 		var layerId = layer_get_id("Arrow");
 		layer_destroy_instances(layerId);
-		if(curr_enemy != pointer_null)
+		if(curr_enemy != 0)
 		{
 			with(curr_enemy)
 			{
@@ -41,15 +37,6 @@ function scr_win_lose() {
 			}
 		}
 	}
-	/*
-	//Check for a lose
-	else if place_meeting(x,y,par_bbox) {
-		y_spd = 0;
-		//x_spd = 0;
-		grav = 0;
-		lose = true;	
-	}
-	*/
 	
 
 

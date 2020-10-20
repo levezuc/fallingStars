@@ -3,6 +3,5 @@
 time_remaining--;
 if(time_remaining <=0)
 {
-instance_destroy();
-
+	instance_destroy();
 }
