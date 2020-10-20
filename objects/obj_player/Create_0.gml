@@ -21,10 +21,6 @@ image_alpha = 1;
 image_xscale = -1;
 object_set_visible(obj_player, true);
 
-//enemy control
-if is_undefined(curr_enemy) {
-	curr_enemy = 0;
-}
 
 //misc.
 window_set_size(2000,1125);

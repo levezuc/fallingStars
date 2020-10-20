@@ -13,6 +13,8 @@ warning_timer = warning_timer_reset;
 
 enemy_end = false;
 enemy_won = false;
+
+//scr_wait(2000);
 with(obj_player)
 {
 	debug_message = string_insert(obj_scorpion, " That better not be 0", 0);
