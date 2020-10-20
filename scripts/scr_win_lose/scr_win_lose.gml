@@ -17,7 +17,6 @@ function scr_win_lose() {
 				enemy_won = true;
 			}
 		}
-
 	}
 	
 	if (hp <= 0) {
@@ -29,7 +28,7 @@ function scr_win_lose() {
 		layer_destroy_instances(layerId);
 		var layerId = layer_get_id("Arrow");
 		layer_destroy_instances(layerId);
-		if(curr_enemy != 0)
+		if(curr_enemy != pointer_null)
 		{
 			with(curr_enemy)
 			{
@@ -37,6 +36,15 @@ function scr_win_lose() {
 			}
 		}
 	}
+	/*
+	//Check for a lose
+	else if place_meeting(x,y,par_bbox) {
+		y_spd = 0;
+		//x_spd = 0;
+		grav = 0;
+		lose = true;	
+	}
+	*/
 	
 
 
