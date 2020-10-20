@@ -17,11 +17,6 @@ function scr_win_lose() {
 				enemy_won = true;
 			}
 		}
-		//THIS IS NOT A GOOD FIX scorpion still not being set properly
-		else
-		{
-			room_goto(rm_select);
-		}
 	}
 	
 	if (hp <= 0) {

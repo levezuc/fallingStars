@@ -22,7 +22,9 @@ image_xscale = -1;
 object_set_visible(obj_player, true);
 
 //enemy control
-curr_enemy = 0;
+if is_undefined(curr_enemy) {
+	curr_enemy = 0;
+}
 
 //misc.
 window_set_size(2000,1125);
