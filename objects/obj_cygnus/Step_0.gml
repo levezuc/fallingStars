@@ -9,4 +9,5 @@ else
 	layer_destroy_instances(layerid);
 	if(enemy_won)
 	room_goto(rm_select);
+	global.hasBeenDefeated_cygnus = true;
 }
