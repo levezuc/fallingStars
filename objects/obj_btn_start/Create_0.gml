@@ -6,3 +6,4 @@ btn_icon = spr_play
 // You can write your code in this editor
 global.hasBeenDefeated_cygnus = false;
 global.hasBeenDefeated_scorpio = false;
+room_goto(rm_select)
