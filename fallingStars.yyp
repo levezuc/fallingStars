@@ -14,6 +14,7 @@
     {"id":{"name":"spr_bow","path":"sprites/spr_bow/spr_bow.yy",},"order":1,},
     {"id":{"name":"obj_warning","path":"objects/obj_warning/obj_warning.yy",},"order":3,},
     {"id":{"name":"spr_warning","path":"sprites/spr_warning/spr_warning.yy",},"order":3,},
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},"order":0,},
     {"id":{"name":"spr_completed","path":"sprites/spr_completed/spr_completed.yy",},"order":6,},
     {"id":{"name":"spr_btn_fight","path":"sprites/spr_btn_fight/spr_btn_fight.yy",},"order":4,},
     {"id":{"name":"scr_receive_damage","path":"scripts/scr_receive_damage/scr_receive_damage.yy",},"order":11,},
