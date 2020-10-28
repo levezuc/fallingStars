@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "rotationg_earth",
+  "name": "obj_rotating_earth",
   "tags": [],
   "resourceType": "GMObject",
 }
