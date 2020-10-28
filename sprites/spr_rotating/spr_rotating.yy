@@ -116,7 +116,7 @@
     "spriteId": {"name":"spr_rotating","path":"sprites/spr_rotating/spr_rotating.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 5.0,
+    "playbackSpeed": 7.5,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
