@@ -180,8 +180,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a40a618d-188d-471a-987a-0b14861025bf","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "fallingStars",
-    "path": "fallingStars.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_rotating",

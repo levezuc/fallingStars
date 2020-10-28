@@ -22,7 +22,7 @@
     {"id":{"name":"obj_scorpion","path":"objects/obj_scorpion/obj_scorpion.yy",},"order":1,},
     {"id":{"name":"scr_bosses","path":"scripts/scr_bosses/scr_bosses.yy",},"order":13,},
     {"id":{"name":"obj_star_c","path":"objects/obj_star_c/obj_star_c.yy",},"order":1,},
-    {"id":{"name":"spr_rotating","path":"sprites/spr_rotating/spr_rotating.yy",},"order":15,},
+    {"id":{"name":"spr_rotating","path":"sprites/spr_rotating/spr_rotating.yy",},"order":9,},
     {"id":{"name":"spr_btn_scorpio","path":"sprites/spr_btn_scorpio/spr_btn_scorpio.yy",},"order":1,},
     {"id":{"name":"obj_cygnus_c","path":"objects/obj_cygnus_c/obj_cygnus_c.yy",},"order":1,},
     {"id":{"name":"scr_win_lose","path":"scripts/scr_win_lose/scr_win_lose.yy",},"order":7,},
