@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-warning_timer_reset = 40;
+warning_timer_reset = 25;
 
 firing_delay = 150;
 
