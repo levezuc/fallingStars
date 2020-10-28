@@ -8,9 +8,11 @@ function scr_scorpion(){
 	{
 		firing_delay = 100;
 	
-		level = irandom(1);
+		//if(obj_player.y <= 640){
+			
+		//level = irandom(1);
 	
-		if(level == 0)
+		if(obj_player.y > 640)
 		{
 			warning_y = 770;
 			//tail_y = 70;
