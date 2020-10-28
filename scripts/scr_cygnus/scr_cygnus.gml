@@ -6,7 +6,7 @@ function scr_cygnus(){
 
 	if(firing_delay < 0)
 	{
-		firing_delay = 10;
+		firing_delay = 5;
 		feather_x = random(room_width);
 		
 		instance_create_layer(feather_x, -60, "Enemy_a", obj_feather);
