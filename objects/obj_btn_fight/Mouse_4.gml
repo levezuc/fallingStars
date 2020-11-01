@@ -7,6 +7,9 @@ switch global.curr_boss {
 	case boss_cygnus:
 		room_goto(rm_cygnus);
 		break;
+	case boss_orion:
+		room_goto(rm_orion);
+		break;
 	default:
 		show_message("Oops! No boss selected!")
 		room_goto(rm_select);
