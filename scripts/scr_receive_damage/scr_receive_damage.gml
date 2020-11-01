@@ -2,10 +2,13 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function scr_receive_damage()
 {
-	image_alpha -= 1/hp_alpha;
-	hp--;
+	//image_alpha -= 1/hp_alpha;
+	if hit_timer <= 0 {
+		hp--;
+		hit_timer = 20;
 	
-	show_debug_message("Player recieved damage");
-	//flash_counter = 16;
-	//image_alpha = 0;
+		show_debug_message("Player recieved damage");
+		//flash_counter = 16;
+		//image_alpha = 0;
+	}
 }

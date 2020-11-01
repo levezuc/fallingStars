@@ -16,6 +16,8 @@ lose = false;
 hp = 3;
 hp_alpha = hp;
 
+hit_timer = 0;
+
 //animations
 image_alpha = 1;
 image_xscale = -1;

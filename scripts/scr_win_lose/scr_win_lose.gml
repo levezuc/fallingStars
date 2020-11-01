@@ -22,6 +22,7 @@ function scr_win_lose() {
 	if (hp <= 0) {
 		
 		lose = true;
+		hit_timer = 0;
 		//object_set_visible(obj_player, false);
 		image_alpha = 0;
 		var layerId = layer_get_id("Bow");

@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "Scorpion",
-    "path": "folders/Sprites/Enemies/Scorpion.yy",
+    "path": "folders/Sprites/Player/health_bar/Enemies/Scorpion.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_warning",
