@@ -32,7 +32,7 @@ function scr_move_jump_collide() {
 	x += spd * x_dir;
 
 	//y collisions
-	if place_meeting(x,y + y_spd+2,par_terrain) { //If colliding with a wall
+	if place_meeting(x,y + y_spd+2,par_terrain) { //If colliding with a floor
 		while !place_meeting(x,y+2,par_terrain) y++;
 		y_spd = 0;
 	}//falling
