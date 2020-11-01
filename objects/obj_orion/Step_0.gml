@@ -2,6 +2,7 @@
 // You can write your code in this editor
 if(!enemy_end){
 	scr_orion();
+	hit_timer--;
 }
 else
 {
