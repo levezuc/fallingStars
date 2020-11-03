@@ -3,4 +3,4 @@
 //projectile_speed = 0;
 firing_delay = 0;
 
-global.super_ammo = 2;
+global.super_ammo = 1;
