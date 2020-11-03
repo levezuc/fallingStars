@@ -1,6 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-hp = 2;
-hp_alpha = hp;
-
-image_alpha = 0;
+if(place_meeting(x,y, par_terrain)) instance_destroy();
