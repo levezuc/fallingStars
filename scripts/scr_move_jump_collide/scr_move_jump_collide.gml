@@ -48,9 +48,12 @@ function scr_move_jump_collide() {
 		
 		
 	} else if ( place_meeting(x,y + y_spd+2,obj_platform)) && y_spd >= 0 && bbox_bottom < obj_platform.bbox_top {
-			while !place_meeting(x,y+2,obj_platform) y++;
-			//show_debug_message("hit a platform");
-			y_spd = 0;
+			while !place_meeting(x,y+2,obj_platform)y++;
+			if(down){
+				y_spd = grav;
+			} else {
+				y_spd = 0;
+			}
 			jumps = 2;	
 	}
 	else{
