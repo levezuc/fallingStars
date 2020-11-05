@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "Cygnus",
-    "path": "folders/Sprites/Player/health_bar/Enemies/Cygnus.yy",
+    "path": "folders/Sprites/Enemies/Cygnus.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_swan_path",
