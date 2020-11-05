@@ -47,7 +47,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"par_terrain","path":"objects/par_terrain/par_terrain.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":29.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1584.00012,"y":448.0,"resourceVersion":"1.0","name":"inst_6BCFC6DC","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"par_terrain","path":"objects/par_terrain/par_terrain.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":28.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":448.0,"resourceVersion":"1.0","name":"inst_3DAC22F5","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"par_terrain","path":"objects/par_terrain/par_terrain.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":49.625,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":778.0,"y":3.0,"resourceVersion":"1.0","name":"inst_1D0F42CB","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_jump_through","path":"objects/obj_jump_through/obj_jump_through.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":5.125,"scaleY":0.625,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1050.0,"y":638.0,"resourceVersion":"1.0","name":"inst_361EF17D","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_platform","path":"objects/obj_platform/obj_platform.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":6.140625,"scaleY":0.5625,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":953.0,"y":608.0,"resourceVersion":"1.0","name":"inst_5891E17E","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":600,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Terrain","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_scorpion","path":"objects/obj_scorpion/obj_scorpion.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.67819941,"scaleY":1.48428154,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-77.0,"y":304.6979,"resourceVersion":"1.0","name":"inst_533E83FD","tags":[],"resourceType":"GMRInstance",},
@@ -86,7 +86,7 @@
     {"name":"inst_2835BAEF","path":"rooms/rm_scorp/rm_scorp.yy",},
     {"name":"inst_2D6A08D3","path":"rooms/rm_scorp/rm_scorp.yy",},
     {"name":"inst_6513883D","path":"rooms/rm_scorp/rm_scorp.yy",},
-    {"name":"inst_361EF17D","path":"rooms/rm_scorp/rm_scorp.yy",},
+    {"name":"inst_5891E17E","path":"rooms/rm_scorp/rm_scorp.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

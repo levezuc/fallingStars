@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_jump_through",
-    "path": "sprites/spr_jump_through/spr_jump_through.yy",
+    "name": "spr_floor",
+    "path": "sprites/spr_floor/spr_floor.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects/Level_objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_jump_through",
+  "name": "obj_platform",
   "tags": [],
   "resourceType": "GMObject",
 }
