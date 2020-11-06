@@ -4,6 +4,6 @@ function scr_orion(){
 	firing_delay--;
 	
 	if(firing_delay >= 0){
-		
+		//instance_create_layer();
 	}
 }
