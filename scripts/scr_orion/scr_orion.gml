@@ -15,7 +15,7 @@ function scr_orion(){
 	}
 	
 	if(instance_number(obj_star) <= 7 && !has_created_spikes){
-		sprite_index = 
+		//sprite_index = 
 		has_created_spikes = true;
 		instance_create_layer(500,700, "Enemy_a", obj_orion_spikes);
 	}
