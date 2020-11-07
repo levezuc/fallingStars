@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 if(!enemy_end){
-	//scr_orion();
+	scr_orion();
 	hit_timer--;
 }
 else
