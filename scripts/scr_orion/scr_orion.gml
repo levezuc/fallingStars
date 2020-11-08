@@ -14,9 +14,15 @@ function scr_orion(){
 		}
 	}
 	
-	if(instance_number(obj_star) <= 7 && !has_created_spikes){
-		//sprite_index = 
+	if(instance_number(obj_star) <= 7 && !has_created_spikes && has_club){
+		//Prevents groundpound int club combo
+		has_club = false;
+		firing_delay = 150;
+		
 		has_created_spikes = true;
-		instance_create_layer(500,700, "Enemy_a", obj_orion_spikes);
+		instance_create_layer(500,700, "Enemy_attack_2", obj_orion_spikes);
+		
+		for(timer = 0; timer < room_speed * 60; timer++){}
+		has_club = true;
 	}
 }

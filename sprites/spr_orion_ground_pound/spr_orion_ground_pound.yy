@@ -89,7 +89,7 @@
     "spriteId": {"name":"spr_orion_ground_pound","path":"sprites/spr_orion_ground_pound/spr_orion_ground_pound.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 10.0,
+    "playbackSpeed": 20.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
