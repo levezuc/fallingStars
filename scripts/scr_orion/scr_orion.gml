@@ -15,9 +15,16 @@ function scr_orion(){
 	}
 	
 	if(instance_number(obj_star) <= 7 && !has_created_spikes && has_club){
-		//Prevents groundpound int club combo
+		sprite_index = spr_orion_ground_pound;
+		image_xscale = 1.5625;
+		image_yscale = 1.5625;
+		image_speed = 1;
+		
+		//Prevents groundpound into club combo
 		has_club = false;
 		firing_delay = 150;
+		
+		for(timer = 0; timer < 10; timer++){}
 		
 		has_created_spikes = true;
 		instance_create_layer(500,700, "Enemy_attack_2", obj_orion_spikes);

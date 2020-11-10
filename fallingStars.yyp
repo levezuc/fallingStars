@@ -43,6 +43,7 @@
     {"id":{"name":"spr_swan","path":"sprites/spr_swan/spr_swan.yy",},"order":0,},
     {"id":{"name":"spr_btn_orion","path":"sprites/spr_btn_orion/spr_btn_orion.yy",},"order":5,},
     {"id":{"name":"obj_select_exit","path":"objects/obj_select_exit/obj_select_exit.yy",},"order":2,},
+    {"id":{"name":"spr_orion_throw","path":"sprites/spr_orion_throw/spr_orion_throw.yy",},"order":9,},
     {"id":{"name":"spr_club","path":"sprites/spr_club/spr_club.yy",},"order":6,},
     {"id":{"name":"spr_scorpion","path":"sprites/spr_scorpion/spr_scorpion.yy",},"order":0,},
     {"id":{"name":"obj_orion_spikes","path":"objects/obj_orion_spikes/obj_orion_spikes.yy",},"order":4,},
