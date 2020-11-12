@@ -3,7 +3,7 @@ function scr_move_jump_collide() {
 	x_dir = right - left;
 	
 	//  add 'place_meeting(x,y+2,par_terrain)' into if to disable double jumping
-	if jump {
+	//if jump {
 		//y_spd = (-jump_power);
 		
 		/*
@@ -12,8 +12,8 @@ function scr_move_jump_collide() {
 		else
 		y_spd = (3/4) * (-jump_power);
 		jumps--;
-		*/
-	}
+	*/
+	//}
 
 	//animations
 	if(x_dir == 0)
