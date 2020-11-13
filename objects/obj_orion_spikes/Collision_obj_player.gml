@@ -5,7 +5,7 @@ if(hit_timer <=0){
 	with(other)
 	{
 	y_spd = -jump_power;
-	//x += spd*3;
+
 	scr_receive_damage();
 	}
 }

@@ -13,7 +13,6 @@
     {"id":{"name":"spr_btn_back","path":"sprites/spr_btn_back/spr_btn_back.yy",},"order":3,},
     {"id":{"name":"obj_super_arrow","path":"objects/obj_super_arrow/obj_super_arrow.yy",},"order":3,},
     {"id":{"name":"scr_cygnus","path":"scripts/scr_cygnus/scr_cygnus.yy",},"order":12,},
-    {"id":{"name":"rm_orion","path":"rooms/rm_orion/rm_orion.yy",},"order":5,},
     {"id":{"name":"spr_feather","path":"sprites/spr_feather/spr_feather.yy",},"order":2,},
     {"id":{"name":"spr_swan_path","path":"sprites/spr_swan_path/spr_swan_path.yy",},"order":1,},
     {"id":{"name":"obj_btn_Cygnus","path":"objects/obj_btn_Cygnus/obj_btn_Cygnus.yy",},"order":1,},
@@ -76,7 +75,6 @@
     {"id":{"name":"sup_arrow_shoot","path":"sounds/sup_arrow_shoot/sup_arrow_shoot.yy",},"order":3,},
     {"id":{"name":"par_terrain","path":"objects/par_terrain/par_terrain.yy",},"order":2,},
     {"id":{"name":"obj_scorpion_a","path":"objects/obj_scorpion_a/obj_scorpion_a.yy",},"order":2,},
-    {"id":{"name":"spr_orion_spikes","path":"sprites/spr_orion_spikes/spr_orion_spikes.yy",},"order":7,},
     {"id":{"name":"obj_cygnus","path":"objects/obj_cygnus/obj_cygnus.yy",},"order":0,},
     {"id":{"name":"spr_arrow","path":"sprites/spr_arrow/spr_arrow.yy",},"order":0,},
     {"id":{"name":"obj_feather","path":"objects/obj_feather/obj_feather.yy",},"order":2,},
@@ -108,7 +106,6 @@
     {"name":"rm_scorp","path":"rooms/rm_scorp/rm_scorp.yy",},
     {"name":"rm_cygnus","path":"rooms/rm_cygnus/rm_cygnus.yy",},
     {"name":"rm_info","path":"rooms/rm_info/rm_info.yy",},
-    {"name":"rm_orion","path":"rooms/rm_orion/rm_orion.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

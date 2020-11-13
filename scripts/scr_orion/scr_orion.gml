@@ -27,7 +27,7 @@ function scr_orion(){
 		for(timer = 0; timer < 10; timer++){}
 		
 		has_created_spikes = true;
-		instance_create_layer(500,700, "Enemy_attack_2", obj_orion_spikes);
+		instance_create_layer(500,775, "Enemy_attack_2", obj_orion_spikes);
 		
 		for(timer = 0; timer < room_speed * 60; timer++){}
 		has_club = true;

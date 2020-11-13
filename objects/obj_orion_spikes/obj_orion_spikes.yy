@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_orion_spikes",
-    "path": "sprites/spr_orion_spikes/spr_orion_spikes.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
