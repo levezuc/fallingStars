@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 147,
-  "bbox_right": 1056,
-  "bbox_top": 1,
-  "bbox_bottom": 799,
+  "bbox_left": 0,
+  "bbox_right": 906,
+  "bbox_top": 0,
+  "bbox_bottom": 795,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 1200,
-  "height": 800,
+  "width": 907,
+  "height": 796,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"4ef75699-52ab-439b-bcb3-fea3b999dfa9","path":"sprites/spr_swan/spr_swan.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4ef75699-52ab-439b-bcb3-fea3b999dfa9","path":"sprites/spr_swan/spr_swan.yy",},"LayerId":{"name":"9b74d74b-83cd-4d7a-881d-c98dcc17450d","path":"sprites/spr_swan/spr_swan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_swan","path":"sprites/spr_swan/spr_swan.yy",},"resourceVersion":"1.0","name":"4ef75699-52ab-439b-bcb3-fea3b999dfa9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"38c4f222-ded2-4459-b603-ed0143faf0b1","path":"sprites/spr_swan/spr_swan.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"38c4f222-ded2-4459-b603-ed0143faf0b1","path":"sprites/spr_swan/spr_swan.yy",},"LayerId":{"name":"0545a5ba-2510-4e35-8964-e488348b4e89","path":"sprites/spr_swan/spr_swan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_swan","path":"sprites/spr_swan/spr_swan.yy",},"resourceVersion":"1.0","name":"38c4f222-ded2-4459-b603-ed0143faf0b1","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_swan","path":"sprites/spr_swan/spr_swan.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"16f9c53c-56f3-4719-8d8e-fc6910d406eb","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4ef75699-52ab-439b-bcb3-fea3b999dfa9","path":"sprites/spr_swan/spr_swan.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d8514914-1c8f-434d-bf00-7146db1c675f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"38c4f222-ded2-4459-b603-ed0143faf0b1","path":"sprites/spr_swan/spr_swan.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,11 +65,11 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9b74d74b-83cd-4d7a-881d-c98dcc17450d","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0545a5ba-2510-4e35-8964-e488348b4e89","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Cygnus",
-    "path": "folders/Sprites/Player/health_bar/Enemies/Cygnus.yy",
+    "path": "folders/Sprites/Enemies/Cygnus.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_swan",

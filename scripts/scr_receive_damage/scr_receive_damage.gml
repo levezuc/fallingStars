@@ -4,6 +4,7 @@ function scr_receive_damage()
 {
 	//image_alpha -= 1/hp_alpha;
 	if hit_timer <= 0 {
+		audio_play_sound(player_hit, 10, false);
 		hp--;
 		hit_timer = 20;
 	

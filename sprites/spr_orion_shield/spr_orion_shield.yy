@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "Orion",
-    "path": "folders/Sprites/Player/health_bar/Enemies/Orion.yy",
+    "path": "folders/Sprites/Enemies/Orion.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_orion_shield",

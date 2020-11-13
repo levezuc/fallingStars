@@ -5,8 +5,10 @@ spd = 15;
 
 //For jumping
 y_spd = 0;
-jump_power = 35;
+jump_power = 33;
 grav = 2;
+jumps = 2;
+
 
 //Win/Lose States
 win = false;
