@@ -2,7 +2,6 @@
   "resources": [
     {"id":{"name":"spr_btn_base","path":"sprites/spr_btn_base/spr_btn_base.yy",},"order":0,},
     {"id":{"name":"obj_star","path":"objects/obj_star/obj_star.yy",},"order":0,},
-    {"id":{"name":"select","path":"sounds/select/select.yy",},"order":4,},
     {"id":{"name":"obj_btn_fight","path":"objects/obj_btn_fight/obj_btn_fight.yy",},"order":3,},
     {"id":{"name":"rm_info","path":"rooms/rm_info/rm_info.yy",},"order":3,},
     {"id":{"name":"rm_cygnus","path":"rooms/rm_cygnus/rm_cygnus.yy",},"order":1,},
@@ -71,7 +70,6 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"spr_play","path":"sprites/spr_play/spr_play.yy",},"order":6,},
     {"id":{"name":"scr_scorpion","path":"scripts/scr_scorpion/scr_scorpion.yy",},"order":8,},
-    {"id":{"name":"select_back","path":"sounds/select_back/select_back.yy",},"order":5,},
     {"id":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},"order":4,},
     {"id":{"name":"spr_player_r","path":"sprites/spr_player_r/spr_player_r.yy",},"order":2,},
     {"id":{"name":"spr_orion","path":"sprites/spr_orion/spr_orion.yy",},"order":3,},
