@@ -42,6 +42,7 @@
     {"id":{"name":"scr_win_lose","path":"scripts/scr_win_lose/scr_win_lose.yy",},"order":7,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":2,},
     {"id":{"name":"spr_orion_shield","path":"sprites/spr_orion_shield/spr_orion_shield.yy",},"order":5,},
+    {"id":{"name":"spr_scorpion_sting","path":"sprites/spr_scorpion_sting/spr_scorpion_sting.yy",},"order":4,},
     {"id":{"name":"spr_swan","path":"sprites/spr_swan/spr_swan.yy",},"order":0,},
     {"id":{"name":"spr_btn_orion","path":"sprites/spr_btn_orion/spr_btn_orion.yy",},"order":5,},
     {"id":{"name":"obj_select_exit","path":"objects/obj_select_exit/obj_select_exit.yy",},"order":2,},
