@@ -10,6 +10,7 @@
     {"id":{"name":"spr_scorpion_path","path":"sprites/spr_scorpion_path/spr_scorpion_path.yy",},"order":2,},
     {"id":{"name":"player_hit","path":"sounds/player_hit/player_hit.yy",},"order":2,},
     {"id":{"name":"arrow_shoot","path":"sounds/arrow_shoot/arrow_shoot.yy",},"order":0,},
+    {"id":{"name":"spr_scorpion_attack_high","path":"sprites/spr_scorpion_attack_high/spr_scorpion_attack_high.yy",},"order":5,},
     {"id":{"name":"spr_btn_back","path":"sprites/spr_btn_back/spr_btn_back.yy",},"order":3,},
     {"id":{"name":"obj_super_arrow","path":"objects/obj_super_arrow/obj_super_arrow.yy",},"order":3,},
     {"id":{"name":"scr_cygnus","path":"scripts/scr_cygnus/scr_cygnus.yy",},"order":12,},
