@@ -19,6 +19,7 @@
     {"id":{"name":"spr_feather","path":"sprites/spr_feather/spr_feather.yy",},"order":2,},
     {"id":{"name":"spr_swan_path","path":"sprites/spr_swan_path/spr_swan_path.yy",},"order":1,},
     {"id":{"name":"obj_btn_Cygnus","path":"objects/obj_btn_Cygnus/obj_btn_Cygnus.yy",},"order":1,},
+    {"id":{"name":"select_back","path":"sounds/select_back/select_back.yy",},"order":5,},
     {"id":{"name":"spr_bow","path":"sprites/spr_bow/spr_bow.yy",},"order":1,},
     {"id":{"name":"obj_warning","path":"objects/obj_warning/obj_warning.yy",},"order":3,},
     {"id":{"name":"spr_warning","path":"sprites/spr_warning/spr_warning.yy",},"order":3,},

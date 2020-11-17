@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "select_back.wav",
+  "soundFile": "select.wav",
   "duration": 0.120011,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "select_back",
+  "name": "select",
   "tags": [],
   "resourceType": "GMSound",
 }
