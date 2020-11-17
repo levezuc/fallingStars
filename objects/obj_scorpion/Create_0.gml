@@ -1,15 +1,13 @@
 /// @description Insert description here
 // You can write your code in this editor
-warning_timer_reset = 35;
+state_idle = 0;
+state_sting = 1;
+state_attack_high = 2;
 
-firing_delay = 150;
-
-warning_x = 1000;
+state = state_idle;
+attack_timer = 150;
 
 hit_timer = 0;
-warning_visible = false;
-
-warning_timer = warning_timer_reset;
 
 enemy_end = false;
 enemy_won = false;

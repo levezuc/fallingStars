@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "select.wav",
+  "soundFile": "arrow_shoot.wav",
   "duration": 0.120011,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "select",
+  "name": "arrow_shoot",
   "tags": [],
   "resourceType": "GMSound",
 }
