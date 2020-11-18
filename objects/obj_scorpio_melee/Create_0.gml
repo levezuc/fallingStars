@@ -10,4 +10,4 @@ start_y = 0;
 total_steps = 0;
 cur_step = 0;
 
-image_alpha = 0;
+//image_alpha = 0;

@@ -3,9 +3,10 @@
 state_idle = 0;
 state_sting = 1;
 state_attack_high = 2;
+state_attack_low = 3;
 
 state = state_idle;
-attack_timer = 150;
+attack_timer = 90;
 
 hit_timer = 0;
 

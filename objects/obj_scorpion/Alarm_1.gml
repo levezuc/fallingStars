@@ -12,4 +12,4 @@ attack_inst.image_xscale = image_xscale;
 attack_inst.image_yscale = image_yscale;
 
 attack_inst.direction = point_direction(start_x, start_y, player.x, player.y);
-attack_inst.speed = 50;
+attack_inst.speed = 100;
