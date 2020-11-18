@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+/*
 switch (global.curr_boss){
 
 case boss_cygnus:
@@ -21,3 +22,4 @@ scale = 0.5;
 break;
 }
 draw_sprite_ext(icon, 0, view_xport[0] + (room_width),view_yport+50, scale, scale, 0, -1, 1);
+*/

@@ -11,4 +11,19 @@ function scr_cygnus(){
 		
 		instance_create_layer(feather_x, -60, "Enemy_a", obj_feather);
 	}
+	
+	if(instance_number(obj_star) <= 6)
+	{
+		sprite_index = spr_swan_attack;
+		
+		x = -22;
+		y = 68;
+		with(obj_player)
+		{
+			if !place_meeting(x + spd * x_dir,y,par_terrain) //If NOT colliding with a wall
+			{
+				x+=7.5;
+			}
+		}
+	}
 }
