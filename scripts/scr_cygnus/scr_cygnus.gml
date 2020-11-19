@@ -16,6 +16,12 @@ function scr_cygnus(){
 	{
 		sprite_index = spr_swan_attack;
 		
+		wind_timer++;
+		if(wind_timer == 30)
+		{
+			instance_create_layer(x+381, y+357, "Enemy_a", obj_air_attack);
+			wind_timer = 0;
+		}
 		x = -22;
 		y = 68;
 		with(obj_player)
