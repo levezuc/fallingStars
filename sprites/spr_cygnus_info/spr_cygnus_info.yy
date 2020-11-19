@@ -24,15 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"c7d4549a-efed-4b08-8e89-efec209f3aaf","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c7d4549a-efed-4b08-8e89-efec209f3aaf","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"LayerId":{"name":"69e98b85-52ea-4031-bb3f-e00393f70efb","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cygnus_info","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"resourceVersion":"1.0","name":"c7d4549a-efed-4b08-8e89-efec209f3aaf","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"bc8b2b7b-4899-435c-805f-1065657e2432","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bc8b2b7b-4899-435c-805f-1065657e2432","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"LayerId":{"name":"69e98b85-52ea-4031-bb3f-e00393f70efb","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cygnus_info","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"resourceVersion":"1.0","name":"bc8b2b7b-4899-435c-805f-1065657e2432","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b8cadead-882b-4832-a174-a2999d984d76","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b8cadead-882b-4832-a174-a2999d984d76","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"LayerId":{"name":"69e98b85-52ea-4031-bb3f-e00393f70efb","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cygnus_info","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"resourceVersion":"1.0","name":"b8cadead-882b-4832-a174-a2999d984d76","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7d3ecbe5-e29f-4c91-820a-5dea921b230b","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7d3ecbe5-e29f-4c91-820a-5dea921b230b","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"LayerId":{"name":"9afc148e-9b0d-4ed8-904e-f4763a6cc90e","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_cygnus_info","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"resourceVersion":"1.0","name":"7d3ecbe5-e29f-4c91-820a-5dea921b230b","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_cygnus_info","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},
@@ -42,14 +36,12 @@
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 3.0,
+    "length": 1.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"aae981b2-bdfc-49a2-a726-c0b4208f3098","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c7d4549a-efed-4b08-8e89-efec209f3aaf","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"cc5db8e2-dada-41fa-bc02-3de734cc27f2","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bc8b2b7b-4899-435c-805f-1065657e2432","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"569003d7-e7d6-426c-b890-bb17d0404ea5","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b8cadead-882b-4832-a174-a2999d984d76","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a22d73db-b026-40bd-b4ce-ed6edf18d556","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7d3ecbe5-e29f-4c91-820a-5dea921b230b","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -73,11 +65,11 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"69e98b85-52ea-4031-bb3f-e00393f70efb","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9afc148e-9b0d-4ed8-904e-f4763a6cc90e","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "info_sprites",
-    "path": "folders/Sprites/Buttons/info_sprites.yy",
+    "name": "Info",
+    "path": "folders/Sprites/Info.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_cygnus_info",
