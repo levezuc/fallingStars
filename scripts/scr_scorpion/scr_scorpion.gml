@@ -12,7 +12,7 @@ function scr_scorpion(){
 				image_index = 0;
 				alarm[1] = 28;
 				
-				attack_timer = 1;
+				attack_timer = 30;
 			}
 			else if player_inst.y > y + 400 {
 				state = state_attack_low
