@@ -4,5 +4,6 @@
 #macro boss_scorpius 0
 #macro boss_cygnus 1
 #macro boss_orion 2
+#macro boss_draco 3
 
 global.curr_boss = boss_none

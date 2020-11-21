@@ -10,6 +10,9 @@ switch global.curr_boss {
 	case boss_orion:
 		room_goto(rm_orion);
 		break;
+	case boss_draco:
+		room_goto(rm_draco);
+		break;
 	default:
 		show_message("Oops! No boss selected!")
 		room_goto(rm_select);

@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"spr_btn_base","path":"sprites/spr_btn_base/spr_btn_base.yy",},"order":0,},
     {"id":{"name":"obj_star","path":"objects/obj_star/obj_star.yy",},"order":0,},
+    {"id":{"name":"spr_draco","path":"sprites/spr_draco/spr_draco.yy",},"order":0,},
     {"id":{"name":"obj_btn_fight","path":"objects/obj_btn_fight/obj_btn_fight.yy",},"order":3,},
     {"id":{"name":"rm_info","path":"rooms/rm_info/rm_info.yy",},"order":3,},
     {"id":{"name":"rm_cygnus","path":"rooms/rm_cygnus/rm_cygnus.yy",},"order":1,},
@@ -53,6 +54,8 @@
     {"id":{"name":"spr_btn_orion","path":"sprites/spr_btn_orion/spr_btn_orion.yy",},"order":5,},
     {"id":{"name":"obj_select_exit","path":"objects/obj_select_exit/obj_select_exit.yy",},"order":2,},
     {"id":{"name":"spr_orion_throw","path":"sprites/spr_orion_throw/spr_orion_throw.yy",},"order":9,},
+    {"id":{"name":"rm_draco","path":"rooms/rm_draco/rm_draco.yy",},"order":6,},
+    {"id":{"name":"spr_btn_draco","path":"sprites/spr_btn_draco/spr_btn_draco.yy",},"order":7,},
     {"id":{"name":"spr_club","path":"sprites/spr_club/spr_club.yy",},"order":6,},
     {"id":{"name":"spr_scorpion","path":"sprites/spr_scorpion/spr_scorpion.yy",},"order":0,},
     {"id":{"name":"spr_scorp_info","path":"sprites/spr_scorp_info/spr_scorp_info.yy",},"order":2,},
@@ -81,6 +84,7 @@
     {"id":{"name":"obj_info","path":"objects/obj_info/obj_info.yy",},"order":8,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"spr_play","path":"sprites/spr_play/spr_play.yy",},"order":6,},
+    {"id":{"name":"obj_btn_Draco","path":"objects/obj_btn_Draco/obj_btn_Draco.yy",},"order":9,},
     {"id":{"name":"spr_air_attack","path":"sprites/spr_air_attack/spr_air_attack.yy",},"order":4,},
     {"id":{"name":"scr_scorpion","path":"scripts/scr_scorpion/scr_scorpion.yy",},"order":8,},
     {"id":{"name":"spr_orion_info","path":"sprites/spr_orion_info/spr_orion_info.yy",},"order":1,},
@@ -95,6 +99,7 @@
     {"id":{"name":"spr_arrow","path":"sprites/spr_arrow/spr_arrow.yy",},"order":0,},
     {"id":{"name":"obj_feather","path":"objects/obj_feather/obj_feather.yy",},"order":2,},
     {"id":{"name":"star_explosion","path":"sounds/star_explosion/star_explosion.yy",},"order":1,},
+    {"id":{"name":"spr_draco_info","path":"sprites/spr_draco_info/spr_draco_info.yy",},"order":3,},
     {"id":{"name":"Background_s","path":"sprites/Background_s/Background_s.yy",},"order":0,},
     {"id":{"name":"obj_btn_start","path":"objects/obj_btn_start/obj_btn_start.yy",},"order":5,},
     {"id":{"name":"obj_orion_c","path":"objects/obj_orion_c/obj_orion_c.yy",},"order":1,},
@@ -125,6 +130,7 @@
     {"name":"rm_cygnus","path":"rooms/rm_cygnus/rm_cygnus.yy",},
     {"name":"rm_info","path":"rooms/rm_info/rm_info.yy",},
     {"name":"rm_orion","path":"rooms/rm_orion/rm_orion.yy",},
+    {"name":"rm_draco","path":"rooms/rm_draco/rm_draco.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -156,6 +162,7 @@
     {"folderPath":"folders/Objects/Enemies/Orion_objs.yy","order":2,"resourceVersion":"1.0","name":"Orion_objs","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Player/health_bar.yy","order":3,"resourceVersion":"1.0","name":"health_bar","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Info.yy","order":12,"resourceVersion":"1.0","name":"Info","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Enemies/Draco.yy","order":4,"resourceVersion":"1.0","name":"Draco","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},

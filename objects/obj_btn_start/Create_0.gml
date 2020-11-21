@@ -7,3 +7,4 @@
 global.hasBeenDefeated_cygnus = false;
 global.hasBeenDefeated_scorpio = false;
 global.hasBeenDefeated_orion = false;
+global.hasBeenDefeated_draco = false;

@@ -13,4 +13,8 @@ break;
 case boss_orion:
 sprite_index = spr_orion_info;
 break;
+
+case boss_draco:
+sprite_index = spr_draco_info;
+break;
 }

@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"8ac63942-208a-4ef9-94af-1615b9fa090d","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8ac63942-208a-4ef9-94af-1615b9fa090d","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"LayerId":{"name":"1c3ead3b-5f87-4857-ad87-5dfa9f8ec310","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cygnus_info","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"resourceVersion":"1.0","name":"8ac63942-208a-4ef9-94af-1615b9fa090d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7d3ecbe5-e29f-4c91-820a-5dea921b230b","path":"sprites/spr_draco_info/spr_draco_info.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7d3ecbe5-e29f-4c91-820a-5dea921b230b","path":"sprites/spr_draco_info/spr_draco_info.yy",},"LayerId":{"name":"9afc148e-9b0d-4ed8-904e-f4763a6cc90e","path":"sprites/spr_draco_info/spr_draco_info.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_draco_info","path":"sprites/spr_draco_info/spr_draco_info.yy",},"resourceVersion":"1.0","name":"7d3ecbe5-e29f-4c91-820a-5dea921b230b","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_cygnus_info","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},
+    "spriteId": {"name":"spr_draco_info","path":"sprites/spr_draco_info/spr_draco_info.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"b2c20d1c-d312-4a3c-8da1-a9dce4e8712e","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8ac63942-208a-4ef9-94af-1615b9fa090d","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"3ded8896-82a1-43c7-b86d-7358f87c097c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7d3ecbe5-e29f-4c91-820a-5dea921b230b","path":"sprites/spr_draco_info/spr_draco_info.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_cygnus_info","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},
+    "parent": {"name":"spr_draco_info","path":"sprites/spr_draco_info/spr_draco_info.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_cygnus_info",
+    "name": "spr_draco_info",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1c3ead3b-5f87-4857-ad87-5dfa9f8ec310","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9afc148e-9b0d-4ed8-904e-f4763a6cc90e","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Info",
     "path": "folders/Sprites/Info.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_cygnus_info",
+  "name": "spr_draco_info",
   "tags": [],
   "resourceType": "GMSprite",
 }
