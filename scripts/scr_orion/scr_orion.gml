@@ -5,7 +5,7 @@ function scr_orion(){
 	
 	if(firing_delay <= 0 && has_club){
 		has_club = false;
-		firing_delay = 150;
+		//firing_delay = 10;
 		instance_create_layer(576,339, "Enemy_a", obj_orion_a);
 		with(obj_orion_a){
 			image_xscale = 0.75;

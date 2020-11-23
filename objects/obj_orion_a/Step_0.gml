@@ -5,6 +5,6 @@ if(place_meeting(x,y, obj_orion)){
 	instance_destroy();
 	with(obj_orion){
 		has_club = true;
-		firing_delay = random_range(150, 200);
+		firing_delay = random_range(50, 75);
 	}
 }
