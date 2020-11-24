@@ -7,8 +7,8 @@ function scr_win_lose() {
 		//spd = 0;
 		//grav = 0;
 		win = true;
-		debug_message = string_insert(curr_enemy, " That better not be 0", 0);
-		show_debug_message(debug_message);
+		//debug_message = string_insert(curr_enemy, " That better not be 0", 0);
+		//show_debug_message(debug_message);
 		if(curr_enemy != 0)
 		{
 			with(curr_enemy)

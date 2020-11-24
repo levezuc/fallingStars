@@ -3,6 +3,6 @@
 
 if(!global.hasBeenDefeated_draco){
 	audio_play_sound(select, 10, false);
-	global.curr_boss = boss_draco
-	room_goto(rm_info)
+	global.curr_boss = boss_draco;
+	room_goto(rm_info);
 }
