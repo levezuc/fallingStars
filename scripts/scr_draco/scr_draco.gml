@@ -3,7 +3,7 @@
 function scr_draco(){
 	windUp++;
 	
-	if (attacking == false && windUp >= 35)
+	if (attacking == false && windUp >= 30)
 	{
 		
 
@@ -14,18 +14,18 @@ function scr_draco(){
 		}
 		
 		//attack_type = 3;
-		instance_create_layer(222, 93, "Enemy", obj_draco_idea);
+		instance_create_layer(557, 400, "Enemy", obj_draco_idea);
 		switch (attack_type) {
 		case 1:
-			instance_create_layer(222, 243, "Enemy_a", obj_draco_cyg);
+			instance_create_layer(557, 505, "Enemy_a", obj_draco_cyg);
 			last_used = 1;
 			break;
 		case 2:
-			instance_create_layer(222, 243, "Enemy_a", obj_draco_ori);
+			instance_create_layer(557, 505, "Enemy_a", obj_draco_ori);
 			last_used = 2;
 			break;
 		case 3:
-			instance_create_layer(222, 243, "Enemy_a", obj_draco_sco);
+			instance_create_layer(557, 505, "Enemy_a", obj_draco_sco);
 			last_used = 3;
 			break;
 		}

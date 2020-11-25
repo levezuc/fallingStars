@@ -4,7 +4,7 @@ wind_timer++;
 if(firing_delay > 5)
 {
 	firing_delay = 0;
-	feather_x = random(room_width);
+	feather_x = random_range(650,room_width);
 		
 	instance_create_layer(feather_x, -60, "Enemy_a", obj_feather);
 }
