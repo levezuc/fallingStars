@@ -21,6 +21,7 @@
     {"id":{"name":"obj_draco_h_windup","path":"objects/obj_draco_h_windup/obj_draco_h_windup.yy",},"order":11,},
     {"id":{"name":"rm_orion","path":"rooms/rm_orion/rm_orion.yy",},"order":5,},
     {"id":{"name":"spr_cygnus_info","path":"sprites/spr_cygnus_info/spr_cygnus_info.yy",},"order":0,},
+    {"id":{"name":"spr_btn_border","path":"sprites/spr_btn_border/spr_btn_border.yy",},"order":8,},
     {"id":{"name":"obj_draco_cyg","path":"objects/obj_draco_cyg/obj_draco_cyg.yy",},"order":1,},
     {"id":{"name":"spr_sting_proj","path":"sprites/spr_sting_proj/spr_sting_proj.yy",},"order":7,},
     {"id":{"name":"spr_feather","path":"sprites/spr_feather/spr_feather.yy",},"order":2,},
