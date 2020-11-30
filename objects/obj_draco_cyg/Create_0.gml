@@ -6,4 +6,4 @@ with(obj_draco)
 {
 	attacking = true;
 }
-alarm[0] = 60;
+alarm[0] = 120;

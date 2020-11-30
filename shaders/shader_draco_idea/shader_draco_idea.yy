@@ -5,7 +5,7 @@
     "path": "folders/Shaders.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sh_draco_fire",
+  "name": "shader_draco_idea",
   "tags": [],
   "resourceType": "GMShader",
 }

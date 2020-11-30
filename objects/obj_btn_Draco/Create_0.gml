@@ -13,5 +13,8 @@ if(global.hasBeenDefeated_cygnus && global.hasBeenDefeated_scorpio && global.has
 	visible = true;
 	
 	//comment this for live
+	if(!global.hasBeenDefeated_draco)
 	btn_icon = spr_btn_draco;
+	else
+	btn_icon = spr_completed;
 }
