@@ -6,7 +6,7 @@ function scr_draco(){
 	if (attacking == false && windUp >= 35)
 	{
 		
-
+		
 		if(last_used == 1){
 			attack_type = irandom_range(2,3);
 		} else if (last_used == 2)

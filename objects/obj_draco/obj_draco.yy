@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_draco",
-    "path": "sprites/spr_draco/spr_draco.yy",
+    "name": "spr_draco_idle",
+    "path": "sprites/spr_draco_idle/spr_draco_idle.yy",
   },
   "solid": false,
   "visible": true,
@@ -23,6 +23,7 @@
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_draco","path":"objects/obj_draco/obj_draco.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_draco","path":"objects/obj_draco/obj_draco.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"parent":{"name":"obj_draco","path":"objects/obj_draco/obj_draco.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

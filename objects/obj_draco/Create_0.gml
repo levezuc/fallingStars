@@ -11,3 +11,4 @@ with(obj_player)
 {
 	curr_enemy = obj_draco;
 }
+

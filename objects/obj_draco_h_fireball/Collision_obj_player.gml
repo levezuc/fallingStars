@@ -6,3 +6,5 @@ with(other)
 	//x += spd*3;
 	scr_receive_damage();
 	}
+	
+instance_destroy();
