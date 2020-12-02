@@ -113,6 +113,7 @@
     {"id":{"name":"obj_arrow","path":"objects/obj_arrow/obj_arrow.yy",},"order":2,},
     {"id":{"name":"spr_draco_fireball","path":"sprites/spr_draco_fireball/spr_draco_fireball.yy",},"order":0,},
     {"id":{"name":"scr_pickup","path":"scripts/scr_pickup/scr_pickup.yy",},"order":2,},
+    {"id":{"name":"orion_hit","path":"sounds/orion_hit/orion_hit.yy",},"order":6,},
     {"id":{"name":"obj_info","path":"objects/obj_info/obj_info.yy",},"order":8,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"spr_play","path":"sprites/spr_play/spr_play.yy",},"order":6,},
@@ -145,6 +146,7 @@
     {"id":{"name":"obj_scorpio_melee","path":"objects/obj_scorpio_melee/obj_scorpio_melee.yy",},"order":4,},
     {"id":{"name":"spr_health_back","path":"sprites/spr_health_back/spr_health_back.yy",},"order":0,},
     {"id":{"name":"spr_star_particles","path":"sprites/spr_star_particles/spr_star_particles.yy",},"order":1,},
+    {"id":{"name":"cygnus_hit","path":"sounds/cygnus_hit/cygnus_hit.yy",},"order":7,},
     {"id":{"name":"rm_scorp","path":"rooms/rm_scorp/rm_scorp.yy",},"order":0,},
   ],
   "Options": [
