@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 1919,
+  "bbox_right": 510,
   "bbox_top": 0,
-  "bbox_bottom": 1079,
+  "bbox_bottom": 756,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 1920,
-  "height": 1080,
+  "width": 511,
+  "height": 757,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"6b091067-1280-4c54-875f-7162ed4ba276","path":"sprites/spr_draco_info/spr_draco_info.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6b091067-1280-4c54-875f-7162ed4ba276","path":"sprites/spr_draco_info/spr_draco_info.yy",},"LayerId":{"name":"01d339fb-a8c1-48b3-8fbe-25d182ea3d2d","path":"sprites/spr_draco_info/spr_draco_info.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_draco_info","path":"sprites/spr_draco_info/spr_draco_info.yy",},"resourceVersion":"1.0","name":"6b091067-1280-4c54-875f-7162ed4ba276","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"45bec69d-477a-4343-9521-e229cb43bb2a","path":"sprites/spr_orion_path/spr_orion_path.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"45bec69d-477a-4343-9521-e229cb43bb2a","path":"sprites/spr_orion_path/spr_orion_path.yy",},"LayerId":{"name":"0fe57b7d-81cf-4448-9c84-ef9d555bd9d8","path":"sprites/spr_orion_path/spr_orion_path.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_orion_path","path":"sprites/spr_orion_path/spr_orion_path.yy",},"resourceVersion":"1.0","name":"45bec69d-477a-4343-9521-e229cb43bb2a","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_draco_info","path":"sprites/spr_draco_info/spr_draco_info.yy",},
+    "spriteId": {"name":"spr_orion_path","path":"sprites/spr_orion_path/spr_orion_path.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"a4e39996-b8b9-40fe-b892-0a946856ad51","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6b091067-1280-4c54-875f-7162ed4ba276","path":"sprites/spr_draco_info/spr_draco_info.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7e2abbdf-5667-4918-95d2-049c4b194089","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"45bec69d-477a-4343-9521-e229cb43bb2a","path":"sprites/spr_orion_path/spr_orion_path.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_draco_info","path":"sprites/spr_draco_info/spr_draco_info.yy",},
+    "parent": {"name":"spr_orion_path","path":"sprites/spr_orion_path/spr_orion_path.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_draco_info",
+    "name": "spr_orion_path",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"01d339fb-a8c1-48b3-8fbe-25d182ea3d2d","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0fe57b7d-81cf-4448-9c84-ef9d555bd9d8","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Info",
-    "path": "folders/Sprites/Info.yy",
+    "name": "Orion",
+    "path": "folders/Sprites/Enemies/Orion.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_draco_info",
+  "name": "spr_orion_path",
   "tags": [],
   "resourceType": "GMSprite",
 }

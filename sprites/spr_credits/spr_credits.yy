@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"6b091067-1280-4c54-875f-7162ed4ba276","path":"sprites/spr_draco_info/spr_draco_info.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6b091067-1280-4c54-875f-7162ed4ba276","path":"sprites/spr_draco_info/spr_draco_info.yy",},"LayerId":{"name":"01d339fb-a8c1-48b3-8fbe-25d182ea3d2d","path":"sprites/spr_draco_info/spr_draco_info.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_draco_info","path":"sprites/spr_draco_info/spr_draco_info.yy",},"resourceVersion":"1.0","name":"6b091067-1280-4c54-875f-7162ed4ba276","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"124828d6-55a6-46ee-8cb2-ddbce56c29a3","path":"sprites/spr_credits/spr_credits.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"124828d6-55a6-46ee-8cb2-ddbce56c29a3","path":"sprites/spr_credits/spr_credits.yy",},"LayerId":{"name":"2afd2062-2a5d-4397-b952-ea22b66e835c","path":"sprites/spr_credits/spr_credits.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_credits","path":"sprites/spr_credits/spr_credits.yy",},"resourceVersion":"1.0","name":"124828d6-55a6-46ee-8cb2-ddbce56c29a3","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_draco_info","path":"sprites/spr_draco_info/spr_draco_info.yy",},
+    "spriteId": {"name":"spr_credits","path":"sprites/spr_credits/spr_credits.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"a4e39996-b8b9-40fe-b892-0a946856ad51","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6b091067-1280-4c54-875f-7162ed4ba276","path":"sprites/spr_draco_info/spr_draco_info.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5b4430eb-075b-4e31-bd6d-13d46f7ed69d","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"124828d6-55a6-46ee-8cb2-ddbce56c29a3","path":"sprites/spr_credits/spr_credits.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_draco_info","path":"sprites/spr_draco_info/spr_draco_info.yy",},
+    "parent": {"name":"spr_credits","path":"sprites/spr_credits/spr_credits.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_draco_info",
+    "name": "spr_credits",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"01d339fb-a8c1-48b3-8fbe-25d182ea3d2d","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"2afd2062-2a5d-4397-b952-ea22b66e835c","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Info",
-    "path": "folders/Sprites/Info.yy",
+    "name": "Backgrounds",
+    "path": "folders/Sprites/Backgrounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_draco_info",
+  "name": "spr_credits",
   "tags": [],
   "resourceType": "GMSprite",
 }
