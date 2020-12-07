@@ -8,3 +8,6 @@ global.hasBeenDefeated_cygnus = false;
 global.hasBeenDefeated_scorpio = false;
 global.hasBeenDefeated_orion = false;
 global.hasBeenDefeated_draco = false;
+global.playing_title = true;
+global.game_complete = false;
+audio_play_sound(title_music, 4, true);

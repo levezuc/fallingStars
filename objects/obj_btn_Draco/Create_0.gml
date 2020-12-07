@@ -5,16 +5,21 @@ if(global.hasBeenDefeated_cygnus && global.hasBeenDefeated_scorpio && global.has
 	visible = true;
 	if(!global.hasBeenDefeated_draco)
 	btn_icon = spr_btn_draco;
-	else
+	else 
+	{
 	btn_icon = spr_completed;
+
+	}
 } else {
 	//change to false for live
-	fightable = true;
-	visible = true;
+	fightable = false;
+	visible = false;
 	
 	//comment this for live
+	/*
 	if(!global.hasBeenDefeated_draco)
 	btn_icon = spr_btn_draco;
 	else
 	btn_icon = spr_completed;
+	*/
 }
