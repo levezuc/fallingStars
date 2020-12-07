@@ -10,4 +10,8 @@ global.hasBeenDefeated_orion = false;
 global.hasBeenDefeated_draco = false;
 global.playing_title = true;
 global.game_complete = false;
-audio_play_sound(title_music, 4, true);
+
+if(!audio_is_playing(title_music))
+{
+	audio_play_sound(title_music, 4, true);
+}

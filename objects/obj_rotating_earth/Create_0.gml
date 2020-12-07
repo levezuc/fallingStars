@@ -11,8 +11,4 @@ if(global.game_complete == true)
 	{
 		alarm[0] = 20;	
 	}
-	with(obj_Esc)
-	{
-		alarm[0] = 50;	
-	}
 }
