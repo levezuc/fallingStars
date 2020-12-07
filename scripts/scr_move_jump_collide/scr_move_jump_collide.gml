@@ -22,15 +22,18 @@ function scr_move_jump_collide() {
 	} else {
 		
 		image_speed = spd/15;
-		sprite_index = spr_player_r;	
+		sprite_index = spr_player_r;
+
 	}
-	if(x_dir < 0)
+	if(mouse_x < x)
 	{
 		image_xscale = -1;
 	} else
 	{
 		image_xscale = 1;
 	}
+
+
 	
 	
 	

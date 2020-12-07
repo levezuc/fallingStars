@@ -4,7 +4,10 @@ if(global.hasBeenDefeated_cygnus && global.hasBeenDefeated_scorpio && global.has
 	fightable = true;
 	visible = true;
 	if(!global.hasBeenDefeated_draco)
-	btn_icon = spr_btn_draco;
+	{
+		btn_icon = spr_btn_draco;
+		//instance_create_layer(x,y,"Buttons",obj_star_particles);
+	}
 	else 
 	{
 	btn_icon = spr_completed;
