@@ -7,13 +7,14 @@ if(!enemy_end){
 }
 else
 {
-	global.hasBeenDefeated_draco = true;
-	global.game_complete = true;
+
 	var layerid = layer_get_id("Enemy_a");
 	layer_destroy_instances(layerid);
 	//var layerid = layer_get_id("Enemy_attack_2");
 	//layer_destroy_instances(layerid);
-	if(enemy_won)
-	room_goto(rm_select);
-
+	if(!enemy_won){
+		global.hasBeenDefeated_draco = true;
+		global.game_complete = true;
+		room_goto(rm_select);
+	}
 }

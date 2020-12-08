@@ -14,7 +14,7 @@ function scr_win_lose() {
 			with(curr_enemy)
 			{
 				enemy_end = true;
-				enemy_won = true;
+				enemy_won = false;
 			}
 		}
 	}
@@ -34,6 +34,7 @@ function scr_win_lose() {
 			with(curr_enemy)
 			{
 				enemy_end = true;
+				enemy_won = true;
 			}
 		}
 	}

@@ -7,7 +7,9 @@ else
 {
 	var layerid = layer_get_id("Enemy_a");
 	layer_destroy_instances(layerid);
-	if(enemy_won)
-	room_goto(rm_select);
-	global.hasBeenDefeated_cygnus = true;
+	if(!enemy_won)
+	{
+		global.hasBeenDefeated_cygnus = true;
+		room_goto(rm_select);
+	}
 }
