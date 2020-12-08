@@ -1,7 +1,7 @@
 {
   "option_windows_display_name": "Falling Stars",
   "option_windows_executable_name": "Falling Stars",
-  "option_windows_version": "0.2.5.0",
+  "option_windows_version": "0.3.0.0",
   "option_windows_company_info": "YoYo Games Ltd",
   "option_windows_product_info": "Made in GameMaker Studio 2",
   "option_windows_copyright_info": "(c) 2018 CompanyName",
